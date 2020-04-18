@@ -859,19 +859,6 @@
   },
   {
     "club_name": "Everton FC",
-    "player_name": "Jonas Lössl",
-    "age": 30,
-    "position": "Goalkeeper",
-    "club_involved_name": "Huddersfield",
-    "fee": "Free transfer",
-    "transfer_movement": "in",
-    "fee_cleaned": 0,
-    "league_name": "Premier League",
-    "year": 2019,
-    "season": "2019/2020"
-  },
-  {
-    "club_name": "Everton FC",
     "player_name": "Idrissa Gueye",
     "age": 29,
     "position": "Defensive Midfield",
